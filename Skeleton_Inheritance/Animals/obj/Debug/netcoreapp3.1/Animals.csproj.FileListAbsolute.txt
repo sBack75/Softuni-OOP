@@ -1,0 +1,13 @@
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Desktop\Inheritance-Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Desktop\Inheritance-Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

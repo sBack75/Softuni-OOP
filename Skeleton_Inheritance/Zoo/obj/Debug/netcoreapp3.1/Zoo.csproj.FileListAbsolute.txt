@@ -1,0 +1,13 @@
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\Desktop\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\Desktop\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
