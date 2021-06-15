@@ -1,0 +1,5 @@
+C:\Users\Legion\source\repos\Encapsulation\Persons\obj\Debug\net5.0\Persons.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\Encapsulation\Persons\obj\Debug\net5.0\Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Encapsulation\Persons\obj\Debug\net5.0\Persons.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Encapsulation\Persons\obj\Debug\net5.0\Persons.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Encapsulation\Persons\obj\Debug\net5.0\Persons.csproj.CoreCompileInputs.cache

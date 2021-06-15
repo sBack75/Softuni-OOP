@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.exe
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.deps.json
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.runtimeconfig.json
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.dll
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\ref\PersonsInfo.dll
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\bin\Debug\net5.0\PersonsInfo.pdb
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.dll
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\ref\PersonsInfo.dll
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.pdb
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\Legion\source\repos\Encapsulation\PersonsInfo\obj\Debug\net5.0\PersonsInfo.csprojAssemblyReference.cache
